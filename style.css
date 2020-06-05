@@ -1,0 +1,33 @@
+body
+{
+    background: #f0f0f0;   
+}
+#input_text
+{
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+#input_password
+{
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+#general_div
+{
+    margin-left: 40px;
+    margin-right: 0px;
+    width: 8em;
+    margin-top: 50px;
+
+}
+
+#method
+{
+    padding-right: 75px;
+    margin-bottom: 10px;
+}
+
+#submit1
+{
+    margin-top: -10px;
+}
